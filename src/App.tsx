@@ -110,7 +110,7 @@ function App() {
               className="aspect-square object-cover rounded-lg hover:opacity-90 transition-opacity cursor-pointer"
             />
             <img 
-              src="https://images.unsplash.com/photo-1515592302748-6937b85f8471?auto=format&fit=crop&q=80" 
+              src="https://images.unsplash.com/photo-1509785307050-d4066910ec1e?auto=format&fit=crop&q=80" 
               alt="Coffee Shop Interior" 
               className="aspect-square object-cover rounded-lg hover:opacity-90 transition-opacity cursor-pointer"
             />
