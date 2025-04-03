@@ -1,2 +1,2 @@
 # Kawiarna
-strona dla kawiarni 
+Strona dla kawiarni
