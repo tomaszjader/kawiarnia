@@ -1,2 +1,2 @@
 # Kawiarna
-Strona dla kawiarni
+Strona dla kawiarni przedostająca jej ofertę.
